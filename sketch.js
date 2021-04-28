@@ -1,9 +1,9 @@
 var page = 0;
-// function preload() {
-//   bg = loadImage('bg.png');
-//   pg2 = loadImage('pg3.PNG');
-//   pg3 = loadImage('pg2.PNG');
-// }
+function preload() {
+  bg = loadImage('bg.png');
+  pg2 = loadImage('pg3.PNG');
+  pg3 = loadImage('pg2.PNG');
+}
 function setup() {
   createCanvas(1880, 920);
 }
